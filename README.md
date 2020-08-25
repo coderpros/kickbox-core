@@ -1,6 +1,6 @@
 # kickbox-core
 
-A [KickBox.io](https://kickbox.io) API wrapper for .Net Core version 5.0.
+A [KickBox.io](https://kickbox.io) API wrapper for .Net Core version 5.0 written in C#.
 
 ## How to use
 
