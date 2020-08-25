@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>KickBox.Core.Client</id>
+    <version>1.0.0</version>
+    <authors>KickBox.Core.Client</authors>
+    <owners>KickBox.Core.Client</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp5.0">
+        <dependency id="KickBox.Core" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\Projects\CoderPro\CoderPro.KickBox\KickBox.Core\KickBox.Core.Client\bin\Debug\net5.0\KickBox.Core.Client.runtimeconfig.json" target="lib\net5.0\KickBox.Core.Client.runtimeconfig.json" />
+    <file src="D:\Projects\CoderPro\CoderPro.KickBox\KickBox.Core\KickBox.Core.Client\bin\Debug\net5.0\KickBox.Core.Client.dll" target="lib\net5.0\KickBox.Core.Client.dll" />
+  </files>
+</package>

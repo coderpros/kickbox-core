@@ -1,0 +1,17 @@
+D:\Projects\CoderPro\CoderPro.KickBox\KickBox.Core\KickBox.Core.Client\bin\Debug\net5.0\KickBox.Core.Client.exe
+D:\Projects\CoderPro\CoderPro.KickBox\KickBox.Core\KickBox.Core.Client\bin\Debug\net5.0\KickBox.Core.Client.deps.json
+D:\Projects\CoderPro\CoderPro.KickBox\KickBox.Core\KickBox.Core.Client\bin\Debug\net5.0\KickBox.Core.Client.runtimeconfig.json
+D:\Projects\CoderPro\CoderPro.KickBox\KickBox.Core\KickBox.Core.Client\bin\Debug\net5.0\KickBox.Core.Client.runtimeconfig.dev.json
+D:\Projects\CoderPro\CoderPro.KickBox\KickBox.Core\KickBox.Core.Client\bin\Debug\net5.0\KickBox.Core.Client.dll
+D:\Projects\CoderPro\CoderPro.KickBox\KickBox.Core\KickBox.Core.Client\bin\Debug\net5.0\KickBox.Core.Client.pdb
+D:\Projects\CoderPro\CoderPro.KickBox\KickBox.Core\KickBox.Core.Client\obj\Debug\net5.0\KickBox.Core.Client.AssemblyInfoInputs.cache
+D:\Projects\CoderPro\CoderPro.KickBox\KickBox.Core\KickBox.Core.Client\obj\Debug\net5.0\KickBox.Core.Client.AssemblyInfo.cs
+D:\Projects\CoderPro\CoderPro.KickBox\KickBox.Core\KickBox.Core.Client\obj\Debug\net5.0\KickBox.Core.Client.csproj.CoreCompileInputs.cache
+D:\Projects\CoderPro\CoderPro.KickBox\KickBox.Core\KickBox.Core.Client\obj\Debug\net5.0\KickBox.Core.Client.dll
+D:\Projects\CoderPro\CoderPro.KickBox\KickBox.Core\KickBox.Core.Client\obj\Debug\net5.0\KickBox.Core.Client.pdb
+D:\Projects\CoderPro\CoderPro.KickBox\KickBox.Core\KickBox.Core.Client\obj\Debug\net5.0\KickBox.Core.Client.genruntimeconfig.cache
+D:\Projects\CoderPro\CoderPro.KickBox\KickBox.Core\KickBox.Core.Client\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Projects\CoderPro\CoderPro.KickBox\KickBox.Core\KickBox.Core.Client\bin\Debug\net5.0\KickBox.Core.dll
+D:\Projects\CoderPro\CoderPro.KickBox\KickBox.Core\KickBox.Core.Client\bin\Debug\net5.0\KickBox.Core.pdb
+D:\Projects\CoderPro\CoderPro.KickBox\KickBox.Core\KickBox.Core.Client\obj\Debug\net5.0\KickBox.Core.Client.csprojAssemblyReference.cache
+D:\Projects\CoderPro\CoderPro.KickBox\KickBox.Core\KickBox.Core.Client\obj\Debug\net5.0\KickBox.Core.Client.csproj.CopyComplete

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "g8bTuWl4uYmCl6EULN3VOwi9zrR/31bVgnreQsPTZ2VHVG8+oWmkFpk26RFC0k4r7A60780phKTc/SDe8oukIg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\CoderPro\\CoderPro.KickBox\\KickBox.Core\\KickBox.Core.Client\\KickBox.Core.Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\BrandonOsborne\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

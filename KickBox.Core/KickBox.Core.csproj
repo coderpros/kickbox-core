@@ -1,0 +1,34 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <PackageId>KickBox.Core</PackageId>
+    <Version>1.0.1</Version>
+    <Authors>Brandon Osborne</Authors>
+    <Company>coderPro.net</Company>
+    <Description>A simple wrapper for the KickBox API targeting Core 5.0 written in C# version 8.</Description>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+    <RepositoryUrl>https://github.com/coderpros/kickbox-core</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <PackageIcon></PackageIcon>
+    <NeutralLanguage>en-US</NeutralLanguage>
+    <Copyright>Copyright © 2020</Copyright>
+    <Product>KickBox API Wrapper</Product>
+    <PackageTags>csharp, dotnetcore, csharp-core, email-verification</PackageTags>
+    <PackageProjectUrl>https://coderpro.net</PackageProjectUrl>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.json" Version="12.0.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="LICENSE.txt" Pack="true" PackagePath="$(PackageLicenseFile)" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="bin\Release\" />
+  </ItemGroup>
+
+</Project>

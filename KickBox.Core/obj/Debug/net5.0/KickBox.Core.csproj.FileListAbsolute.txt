@@ -1,0 +1,9 @@
+D:\Projects\CoderPro\CoderPro.KickBox\KickBox.Core\KickBox.Core\bin\Debug\net5.0\KickBox.Core.deps.json
+D:\Projects\CoderPro\CoderPro.KickBox\KickBox.Core\KickBox.Core\bin\Debug\net5.0\KickBox.Core.dll
+D:\Projects\CoderPro\CoderPro.KickBox\KickBox.Core\KickBox.Core\bin\Debug\net5.0\KickBox.Core.pdb
+D:\Projects\CoderPro\CoderPro.KickBox\KickBox.Core\KickBox.Core\obj\Debug\net5.0\KickBox.Core.AssemblyInfoInputs.cache
+D:\Projects\CoderPro\CoderPro.KickBox\KickBox.Core\KickBox.Core\obj\Debug\net5.0\KickBox.Core.AssemblyInfo.cs
+D:\Projects\CoderPro\CoderPro.KickBox\KickBox.Core\KickBox.Core\obj\Debug\net5.0\KickBox.Core.csproj.CoreCompileInputs.cache
+D:\Projects\CoderPro\CoderPro.KickBox\KickBox.Core\KickBox.Core\obj\Debug\net5.0\KickBox.Core.dll
+D:\Projects\CoderPro\CoderPro.KickBox\KickBox.Core\KickBox.Core\obj\Debug\net5.0\KickBox.Core.pdb
+D:\Projects\CoderPro\CoderPro.KickBox\KickBox.Core\KickBox.Core\obj\Debug\net5.0\KickBox.Core.csprojAssemblyReference.cache
