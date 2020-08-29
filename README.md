@@ -9,7 +9,9 @@ A [KickBox.io](https://kickbox.io) API wrapper for .Net Core version 5.0 written
 - Add your own Kickbox API key when you instantiate the KickBox object.
 
 I've included a test client application in this project, but here is is an elaboration on how to use each of the methods.
-*This is included as a NuGet package here: *
+
+This is available as a NuGet package here: [Nuget.org](https://www.nuget.org/packages/KickBox.Core/)
+
 ### Verify a single email address
 
 ```C#
