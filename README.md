@@ -53,16 +53,16 @@ var verificationResponse3 = await kickbox.CheckStatus(1234567)
                                     .ConfigureAwait(true);
 ```
 
-[contributors-shield]: https://img.shields.io/github/contributors/coderpros/kickbox-asp.svg?style=flat-square
-[contributors-url]: https://github.com/coderpros/kickbox-asp/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/coderpros/kickbox-asp?style=flat-square
-[forks-url]: https://github.com/coderpros/kickbox-asp/network/members
-[stars-shield]: https://img.shields.io/github/stars/coderpros/kickbox-asp.svg?style=flat-square
-[stars-url]: https://github.com/coderpros/kickbox-asp/stargazers
-[issues-shield]: https://img.shields.io/github/issues/coderpros/kickbox-asp?style=flat-square
-[issues-url]: https://github.com/coderpros/kickbox-asp/issues
-[license-shield]: https://img.shields.io/github/license/coderpros/kickbox-asp?style=flat-square
-[license-url]: https://github.com/coderpros/kickbox-asp/master/blog/LICENSE
+[contributors-shield]: https://img.shields.io/github/contributors/coderpros/kickbox-core.svg?style=flat-square
+[contributors-url]: https://github.com/coderpros/kickbox-core/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/coderpros/kickbox-core?style=flat-square
+[forks-url]: https://github.com/coderpros/kickbox-core/network/members
+[stars-shield]: https://img.shields.io/github/stars/coderpros/kickbox-core.svg?style=flat-square
+[stars-url]: https://github.com/coderpros/kickbox-core/stargazers
+[issues-shield]: https://img.shields.io/github/issues/coderpros/kickbox-core?style=flat-square
+[issues-url]: https://github.com/coderpros/kickbox-core/issues
+[license-shield]: https://img.shields.io/github/license/coderpros/kickbox-core?style=flat-square
+[license-url]: https://github.com/coderpros/kickbox-core/master/blog/LICENSE
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/company/coderpros
 [twitter-shield]: https://img.shields.io/twitter/follow/coderpronet?style=social
