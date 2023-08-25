@@ -1,4 +1,13 @@
-﻿namespace KickBox.Core.Models
+﻿// --------------------------------------------------------------------------------------------------------------------
+// <copyright file="StatsModel.cs" company="coderPro.net">
+//   Copyright 2020 coderPro.net. All rights reserved.
+// </copyright>
+// <summary>
+//   The stats model used in completed batch verifications.
+// </summary>
+// --------------------------------------------------------------------------------------------------------------------
+
+namespace KickBox.Core.Models
 {
     using Newtonsoft.Json;
 

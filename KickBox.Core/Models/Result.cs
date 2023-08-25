@@ -1,4 +1,13 @@
-﻿namespace KickBox.Core.Models
+﻿// --------------------------------------------------------------------------------------------------------------------
+// <copyright file="Result.cs" company="coderPro.net">
+//   Copyright 2020 coderPro.net. All rights reserved.
+// </copyright>
+// <summary>
+//   The result from KickBox.
+// </summary>
+// --------------------------------------------------------------------------------------------------------------------
+
+namespace KickBox.Core.Models
 {
     using System.Runtime.Serialization;
 

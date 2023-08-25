@@ -1,9 +1,18 @@
-﻿namespace KickBox.Core.Models
+﻿// --------------------------------------------------------------------------------------------------------------------
+// <copyright file="ProcessingModel.cs" company="coderPro.net">
+//   Copyright 2020 coderPro.net. All rights reserved.
+// </copyright>
+// <summary>
+//   The process model.
+// </summary>
+// --------------------------------------------------------------------------------------------------------------------
+
+namespace KickBox.Core.Models
 {
     using Newtonsoft.Json;
 
     /// <summary>
-    /// The processing .
+    /// The process model.
     /// </summary>
     public class ProgressModel
     {

@@ -1,5 +1,6 @@
 ﻿namespace KickBox.Core.Client
 {
+    using System;
     using System.Net.Mail;
     using System.Threading.Tasks;
 
@@ -19,12 +20,14 @@
         /// </returns>
         private static async Task Main(string[] args)
         {
-            var kickbox = new KickBoxApi("*** ADD API KEY HERE ***", "https://api.kickbox.com/v2");
+            var kickbox = new KickBoxApi("live_a2ef257ebdf23c5609f153ae0118b9948053b4c82931bc210d18573ad4689dcd", "https://api.kickbox.com/v2");
 
-            var verificationResponse1 = await kickbox.VerifyEmail(new MailAddress("info@coderpro.net"))
+            var balanceResponse = await kickbox.GetBalanceAsync().ConfigureAwait(true);
+
+            var verificationResponse1 = await kickbox.VerifyEmailAsync(new MailAddress("info@coderpro.net"))
                                             .ConfigureAwait(true);
 
-            var verificationResponse2 = await kickbox.VerifyBatch(
+            var verificationResponse2 = await kickbox.VerifyBatchAsync(
                                                 mailAddresses: new[]
                                                                    {
                                                                        new MailAddress("brandon.osborne@gamil.com"),
@@ -34,8 +37,13 @@
                                                 batchVerificationCallback: null)
                                             .ConfigureAwait(false);
 
-            var verificationResponse3 = await kickbox.CheckStatus(1234567)
+            var verificationResponse3 = await kickbox.CheckStatusAsync(1234567)
                                             .ConfigureAwait(true);
+
+            Console.WriteLine($"Your remaining balance is: {balanceResponse}");
+            Console.WriteLine($"Verification Response 1: {verificationResponse1}");
+            Console.WriteLine($"Verification Response 2: {verificationResponse2}");
+            Console.WriteLine($"Verification Response 3: {verificationResponse3}");
         }
     }
 }

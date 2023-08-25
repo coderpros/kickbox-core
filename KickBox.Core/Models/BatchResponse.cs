@@ -1,4 +1,13 @@
-﻿#nullable enable
+﻿// --------------------------------------------------------------------------------------------------------------------
+// <copyright file="BatchResponse.cs" company="coderPro.net">
+//   Copyright 2020 coderPro.net All rights reserved.
+// </copyright>
+// <summary>
+//   The batch response from the KickBox API.
+// </summary>
+// --------------------------------------------------------------------------------------------------------------------
+
+#nullable enable
 namespace KickBox.Core.Models
 {
     using System;

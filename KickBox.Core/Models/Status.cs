@@ -1,4 +1,13 @@
-﻿namespace KickBox.Core.Models
+﻿// --------------------------------------------------------------------------------------------------------------------
+// <copyright file="Status.cs" company="coderPro.net">
+//   Copyright 2020 coderPro.net. All rights reserved.
+// </copyright>
+// <summary>
+//   The status of a bulk verification.
+// </summary>
+// --------------------------------------------------------------------------------------------------------------------
+
+namespace KickBox.Core.Models
 {
     using System.Runtime.Serialization;
 

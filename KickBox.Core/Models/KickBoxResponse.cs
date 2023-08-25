@@ -1,4 +1,13 @@
-﻿namespace KickBox.Core.Models
+﻿// --------------------------------------------------------------------------------------------------------------------
+// <copyright file="KickBoxResponse.cs" company="coderPro.net">
+//   Copyright 2020 coderPro.net. All rights reserved.
+// </copyright>
+// <summary>
+//   The kick box response.
+// </summary>
+// --------------------------------------------------------------------------------------------------------------------
+
+namespace KickBox.Core.Models
 {
     using Newtonsoft.Json;
 
@@ -50,7 +59,7 @@
         public string DidYouMean { get; set; }
 
         /// <summary>
-        /// Gets or sets the sendex.
+        /// Gets or sets the quality of the email address.
         /// </summary>
         [JsonProperty("sendex")]
         public double Sendex { get; set; }

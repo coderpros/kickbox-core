@@ -1,0 +1,12 @@
+D:\Projects\Clients\CoderPro.KickBox\kickbox-core\KickBox.Core\bin\Debug\net6.0\KickBox.Core.deps.json
+D:\Projects\Clients\CoderPro.KickBox\kickbox-core\KickBox.Core\bin\Debug\net6.0\KickBox.Core.dll
+D:\Projects\Clients\CoderPro.KickBox\kickbox-core\KickBox.Core\bin\Debug\net6.0\KickBox.Core.pdb
+D:\Projects\Clients\CoderPro.KickBox\kickbox-core\KickBox.Core\obj\Debug\net6.0\KickBox.Core.csproj.AssemblyReference.cache
+D:\Projects\Clients\CoderPro.KickBox\kickbox-core\KickBox.Core\obj\Debug\net6.0\KickBox.Core.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Clients\CoderPro.KickBox\kickbox-core\KickBox.Core\obj\Debug\net6.0\KickBox.Core.AssemblyInfoInputs.cache
+D:\Projects\Clients\CoderPro.KickBox\kickbox-core\KickBox.Core\obj\Debug\net6.0\KickBox.Core.AssemblyInfo.cs
+D:\Projects\Clients\CoderPro.KickBox\kickbox-core\KickBox.Core\obj\Debug\net6.0\KickBox.Core.csproj.CoreCompileInputs.cache
+D:\Projects\Clients\CoderPro.KickBox\kickbox-core\KickBox.Core\obj\Debug\net6.0\KickBox.Core.dll
+D:\Projects\Clients\CoderPro.KickBox\kickbox-core\KickBox.Core\obj\Debug\net6.0\refint\KickBox.Core.dll
+D:\Projects\Clients\CoderPro.KickBox\kickbox-core\KickBox.Core\obj\Debug\net6.0\KickBox.Core.pdb
+D:\Projects\Clients\CoderPro.KickBox\kickbox-core\KickBox.Core\obj\Debug\net6.0\ref\KickBox.Core.dll

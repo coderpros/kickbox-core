@@ -1,4 +1,4 @@
-<img src="https://coderpro.net/images/logos/coderPro_logo_rounded_extra-90x90.webp" align="right" />
+<a href="https://coderpro.net" target="_blank"><img src="https://coderpro.net/media/g0qlgmoq/coderpro_jump_blue_300w.gif" align="right" width="125" /></a>
 
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
@@ -11,7 +11,7 @@
 
 # KickBox-Core
 
-A [KickBox.io](https://kickbox.io) API wrapper for .Net Core version 5.0 written in C#.
+A [KickBox.io](https://kickbox.io) API wrapper for .Net 6 written in C#.
 
 ## How to use
 
@@ -52,6 +52,14 @@ var verificationResponse2 = await kickbox.VerifyBatch(
 var verificationResponse3 = await kickbox.CheckStatus(1234567)
                                     .ConfigureAwait(true);
 ```
+
+## Change Log
+- 2020/08/25
+  - Initial commit
+- 2023/08/25
+  - Upgraded to .Net 6
+  - Added method to check balance.
+  - Added synchronous methods.
 
 [contributors-shield]: https://img.shields.io/github/contributors/coderpros/kickbox-core.svg?style=flat-square
 [contributors-url]: https://github.com/coderpros/kickbox-core/graphs/contributors
