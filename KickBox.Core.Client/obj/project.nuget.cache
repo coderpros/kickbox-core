@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "5j3HevyYob/psoWwG2uxrC3vHOatks2sWDeHYisk23XIA0SzJyl36gGWzrD9Btl2nkWQ43o2Nc/4DulujOg9Xg==",
+  "dgSpecHash": "t0JrRf54PnGPjrwsSYvH/xDJwfY/5cf+3jXEme7OU1Z3eIY8XCoKMsg2R/1M3lKIyiGzmzqJpMDCcv5hhaT7uw==",
   "success": true,
   "projectFilePath": "D:\\Projects\\Clients\\CoderPro.KickBox\\kickbox-core\\KickBox.Core.Client\\KickBox.Core.Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\BrandonOsborne\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
-    "C:\\Users\\BrandonOsborne\\.nuget\\packages\\kickbox.core\\1.0.1\\kickbox.core.1.0.1.nupkg.sha512"
+    "C:\\Users\\BrandonOsborne\\.nuget\\packages\\kickbox.core\\1.2.0\\kickbox.core.1.2.0.nupkg.sha512"
   ],
   "logs": []
 }

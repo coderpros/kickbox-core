@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net6.0</TargetFramework>
     <PackageId>KickBox.Core</PackageId>
-    <Version>1.0.1</Version>
+    <Version>1.2.0</Version>
     <Authors>Brandon Osborne</Authors>
     <Company>coderPro.net</Company>
     <Description>A simple wrapper for the KickBox API targeting 6.0 written in C#.</Description>
@@ -15,7 +15,7 @@
     <NeutralLanguage>en-US</NeutralLanguage>
     <Copyright>Copyright © 2020 coderPro.net. All rights reserved.</Copyright>
     <Product>KickBox API Wrapper</Product>
-    <PackageTags>csharp, dotnetcore, csharp-core, email-verification</PackageTags>
+    <PackageTags>csharp, dotnet6, csharp6, email-verification</PackageTags>
     <PackageProjectUrl>https://coderpro.net</PackageProjectUrl>
     <PackageReadmeFile>README.md</PackageReadmeFile>
     <AnalysisLevel>latest-recommended</AnalysisLevel>

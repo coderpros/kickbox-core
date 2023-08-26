@@ -10,7 +10,7 @@
     <projectUrl>https://coderpro.net/</projectUrl>
     <description>A simple wrapper for the KickBox API targeting 6.0 written in C#.</description>
     <copyright>Copyright © 2020 coderPro.net. All rights reserved.</copyright>
-    <tags>csharp, dotnetcore, csharp-core, email-verification</tags>
+    <tags>csharp, dotnet6, csharp6, email-verification</tags>
     <repository type="git" url="https://github.com/coderpros/kickbox-core" />
     <dependencies>
       <group targetFramework="net6.0">

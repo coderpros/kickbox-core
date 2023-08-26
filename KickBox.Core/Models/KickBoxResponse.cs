@@ -62,7 +62,7 @@ namespace KickBox.Core.Models
         /// Gets or sets the quality of the email address.
         /// </summary>
         [JsonProperty("sendex")]
-        public double Sendex { get; set; }
+        public float Sendex { get; set; }
 
         /// <summary>
         /// Gets or sets the email.

@@ -15,7 +15,7 @@
           }
         }
       },
-      "KickBox.Core/1.0.1": {
+      "KickBox.Core/1.2.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
         "dependencies": {
@@ -61,7 +61,7 @@
         "packageIcon.png"
       ]
     },
-    "KickBox.Core/1.0.1": {
+    "KickBox.Core/1.2.0": {
       "type": "project",
       "path": "../KickBox.Core/KickBox.Core.csproj",
       "msbuildProject": "../KickBox.Core/KickBox.Core.csproj"
@@ -69,7 +69,7 @@
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "KickBox.Core >= 1.0.1"
+      "KickBox.Core >= 1.2.0"
     ]
   },
   "packageFolders": {
