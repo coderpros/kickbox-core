@@ -20,7 +20,7 @@
         /// </returns>
         private static async Task Main(string[] args)
         {
-            var kickbox = new KickBoxApi("live_a2ef257ebdf23c5609f153ae0118b9948053b4c82931bc210d18573ad4689dcd", "https://api.kickbox.com/v2");
+            var kickbox = new KickBoxApi("***Your API Key***", "https://api.kickbox.com/v2");
 
             var balanceResponse = await kickbox.GetBalanceAsync().ConfigureAwait(true);
 
